@@ -1,0 +1,4 @@
+*.Rout
+.RData
+Rplot*
+Stats1.13.Lab.*.R
