@@ -5,7 +5,7 @@ Me going through the free online class
 taught by Andrew Conway of Princeton University.
 
 ## Development
-[Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml).
+[Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
 
 ## Author
 [Murilo Pereira](http://murilopereira.com)
