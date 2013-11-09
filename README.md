@@ -11,4 +11,5 @@ of [Princeton University](http://www.princeton.edu/).
 ## Author
 [Murilo Pereira](http://murilopereira.com)
 
-Code released under the [MIT License](http://opensource.org/licenses/MIT)
+Code and notes released under the
+[MIT License](http://opensource.org/licenses/MIT)
